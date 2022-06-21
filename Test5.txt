@@ -11,4 +11,9 @@
 12ewdadsf
 =======
 asdfdgagasdfd
+<<<<<<< HEAD
 >>>>>>> 95ec497 (Test)
+=======
+
+1232eafdfdfa
+>>>>>>> e7466c8 (Test COmmit)
